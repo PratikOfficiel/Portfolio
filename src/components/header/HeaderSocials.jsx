@@ -5,8 +5,8 @@ import { GrTechnology } from "react-icons/gr";
 function HeaderSocials() {
   return (
     <div className='header_socials'>
-        <a href="https://linkedin.com" rel='noreferrer' target='_blank'><BsLinkedin/></a>
-        <a href="https://github.com" rel='noreferrer' target='_blank'><FaGithub/></a>
+        <a href="https://www.linkedin.com/in/pratik-s-bb15521b2/" rel='noreferrer' target='_blank'><BsLinkedin/></a>
+        <a href="https://github.com/PratikOfficiel" rel='noreferrer' target='_blank'><FaGithub/></a>
         <a href="#skills"><GrTechnology /></a>
     </div>
   )

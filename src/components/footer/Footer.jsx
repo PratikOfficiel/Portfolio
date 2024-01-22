@@ -18,8 +18,8 @@ function Footer() {
       </ul>
 
       <div className="footer_socials">
-        <a href="https://linkedin.com"><BsLinkedin/></a>
-        <a href="https://github.com"><FaGithub/></a>
+        <a href="https://www.linkedin.com/in/pratik-s-bb15521b2/"><BsLinkedin/></a>
+        <a href="https://github.com/PratikOfficiel"><FaGithub/></a>
       </div>
 
 
