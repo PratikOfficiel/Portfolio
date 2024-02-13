@@ -1,7 +1,7 @@
 import React from 'react'
 import {personalInfo} from '../../data.js';
 import './about.css';
-import Me from '../../assets/me-about.jpg'
+import Me from '../../assets/me-about.png'
 import { HiAcademicCap } from "react-icons/hi";
 import { SiCodeforces } from "react-icons/si";
 import { VscFolderLibrary } from "react-icons/vsc";

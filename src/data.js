@@ -73,7 +73,7 @@ const projects = [
     {
         id:4,
         imgLink:IMG4,
-        title: "Random Quote",
+        title: "Random Quote Generator",
         githubLink: "https://github.com/PratikOfficiel/RandomQuoteGenerator",
         liveLink: "https://master--comfy-syrniki-03b859.netlify.app/"
     },
