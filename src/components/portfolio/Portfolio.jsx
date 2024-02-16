@@ -17,8 +17,8 @@ function Portfolio() {
               </div>
               <h3>{project.title}</h3>
               <div className="portfolio_item-cta">
-                <a href={project.githubLink} target='_blank' rel='noreferrer' className='btn'>Github</a>
-                <a href={project.liveLink} target='_blank' rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+                {project.githubLink!=="" && <a href={project.githubLink} target='_blank' rel='noreferrer' className='btn'>Github</a>}
+                {project.liveLink!=="" && <a href={project.liveLink} target='_blank' rel='noreferrer' className='btn btn-primary'>Live Demo</a>}
               </div>
             </article>
           ))

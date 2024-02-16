@@ -1,5 +1,5 @@
 import React from 'react'
-import {personalInfo} from '../../data.js';
+import {personalInfo, achievements} from '../../data.js';
 import './about.css';
 import Me from '../../assets/me-about.png'
 import { HiAcademicCap } from "react-icons/hi";
@@ -29,12 +29,12 @@ function About() {
             <article className="about_card">
               <SiCodeforces className='about_icon'/>
               <h5>Coding</h5>
-              <small>2000+ Problems</small>
+              {achievements.profiles.map((item)=> (<small key={item.name}><a href={item.link}>{item.name}</a></small>))}
             </article>
             <article className="about_card">
               <VscFolderLibrary className='about_icon'/>
-              <h5>Projects</h5>
-              <small>20+ completed</small>
+              <h5>Certifications</h5>
+              {achievements.certificates.map((item)=> (<small key={item.name}><a href={item.link}>{item.name}</a></small>))}
             </article>
           </div>
 

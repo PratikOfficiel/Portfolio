@@ -9,7 +9,29 @@ const personalInfo = {
     name: "Pratik Soni",
     profession: 'Software Developer',
     institute: 'Indian Institute of Technology (BHU), Varanasi',
-    about: ''
+    about: 'I am a skilled Problem Solver. I have been coding for past 3 years. I have expert level proficiency in c++, javascript with good working knowledge of React and Node. I have also built projects on blockchain tech on internet computer platform using MOTOKO.'
+}
+
+// Only any 3 are enough
+
+const achievements = {
+    profiles:[
+        {
+            name: "Codeforces",
+            link: "https://codeforces.com/profile/Valkov"
+        },
+        {
+            name: "Leetcode",
+            link: "https://leetcode.com/SouLPegasuS/"
+        }
+    ],
+
+    certificates:[
+        {
+            name: "",
+            link: "#"
+        }
+    ]
 }
 
 const SKILLS = {
@@ -61,7 +83,7 @@ const projects = [
         imgLink:IMG2,
         title: "Notes On Blockchain",
         githubLink: "https://github.com/PratikOfficiel/NotesOnBlockchain",
-        liveLink: "https://github.com/PratikOfficiel/NotesOnBlockchain"
+        liveLink: ""
     },
     {
         id:3,
@@ -82,7 +104,7 @@ const projects = [
         imgLink:IMG5,
         title: "Nested Comments",
         githubLink: "https://github.com/Pratik01-git/NComment",
-        liveLink: "www.github.com"
+        liveLink: ""
     },
     {
         id:6,
@@ -93,4 +115,4 @@ const projects = [
     },
 ];
 
-export {personalInfo, projects, SKILLS};
+export {personalInfo, projects, SKILLS, achievements};
