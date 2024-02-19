@@ -74,9 +74,9 @@ const projects = [
     {
         id:1,
         imgLink: IMG1,
-        title: "Comic Generator",
-        githubLink: "https://github.com/PratikOfficiel/ComicGenerator",
-        liveLink: "https://main--silver-swan-b7c197.netlify.app/"
+        title: "NFT marketplace",
+        githubLink: "https://github.com/PratikOfficiel/NFT-Marketplace",
+        liveLink: ""
     },
     {
         id:2,
@@ -95,9 +95,9 @@ const projects = [
     {
         id:4,
         imgLink:IMG4,
-        title: "Random Quote Generator",
-        githubLink: "https://github.com/PratikOfficiel/RandomQuoteGenerator",
-        liveLink: "https://master--comfy-syrniki-03b859.netlify.app/"
+        title: "Crypto Token",
+        githubLink: "https://github.com/PratikOfficiel/CryptoToken",
+        liveLink: ""
     },
     {
         id:5,
