@@ -51,6 +51,9 @@ const SKILLS = {
         {
             "System Design": 'Basic'
         },
+        {
+            "Blockchain Development": "Intermediate"
+        }
         
     ],
     frontend:[
@@ -64,6 +67,7 @@ const SKILLS = {
     backend:[
         {"Node JS": "Expert"},
         {"Express": "Intermediate"},
+        {"Motoko": "Intermediate"},
         {"MongoDB": "Basic"},
         {"MYSQL": "Basic"},
         {"Python": "Basic"}
