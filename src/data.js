@@ -28,8 +28,8 @@ const achievements = {
 
     certificates:[
         {
-            name: "",
-            link: "#"
+            name: "Hackerrank",
+            link: "https://www.hackerrank.com/profile/s_pratikcr929"
         }
     ]
 }
