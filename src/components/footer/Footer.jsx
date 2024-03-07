@@ -18,7 +18,7 @@ function Footer() {
       </ul>
 
       <div className="footer_socials">
-        <a href="https://www.linkedin.com/in/pratik-s-bb15521b2/"><BsLinkedin/></a>
+        <a href="https://www.linkedin.com/in/spratik929/"><BsLinkedin/></a>
         <a href="https://github.com/PratikOfficiel"><FaGithub/></a>
       </div>
 

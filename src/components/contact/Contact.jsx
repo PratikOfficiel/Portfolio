@@ -37,8 +37,8 @@ function Contact() {
           <article className="contact_option">
             <RiLinkedinLine  className='contact_option-icon'/>
             <h4>LinkedIn</h4>
-            <h5>pratik-s-bb15521b2</h5>
-            <a href="https://www.linkedin.com/in/pratik-s-bb15521b2/" rel='noreferrer' target='_blank'>Send a message</a>
+            <h5>spratik929</h5>
+            <a href="https://www.linkedin.com/in/spratik929/" rel='noreferrer' target='_blank'>Send a message</a>
           </article>
         </div>
 

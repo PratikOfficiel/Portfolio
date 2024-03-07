@@ -30,6 +30,10 @@ const achievements = {
         {
             name: "Hackerrank",
             link: "https://www.hackerrank.com/profile/s_pratikcr929"
+        },
+        {
+            name: "freeCodeCamp",
+            link: "https://www.freecodecamp.org/certification/spratik929/javascript-algorithms-and-data-structures"
         }
     ]
 }
