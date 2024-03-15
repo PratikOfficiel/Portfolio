@@ -9,7 +9,7 @@ const personalInfo = {
     name: "Pratik Soni",
     profession: 'Software Developer',
     institute: 'Indian Institute of Technology (BHU), Varanasi',
-    about: 'I am a skilled Problem Solver. I have been coding for past 3 years. I have expert level proficiency in c++, javascript with good working knowledge of React and Node. I have also built projects on blockchain tech on internet computer platform using MOTOKO.'
+    about: 'I am a versatile Full Stack Developer with an emphasis on backend programming. I am adept in competitive programming with a robust understanding of Data Structures and Algorithms.'
 }
 
 // Only any 3 are enough
