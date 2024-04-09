@@ -82,16 +82,16 @@ const projects = [
     {
         id:1,
         imgLink: IMG1,
-        title: "NFT marketplace",
-        githubLink: "https://github.com/PratikOfficiel/NFT-Marketplace",
+        title: "VlogVista",
+        githubLink: "https://github.com/PratikOfficiel/VlogVista",
         liveLink: ""
     },
     {
         id:2,
         imgLink:IMG2,
-        title: "Notes On Blockchain",
-        githubLink: "https://github.com/PratikOfficiel/NotesOnBlockchain",
-        liveLink: ""
+        title: "Quiz App",
+        githubLink: "https://github.com/PratikOfficiel/QuizApp",
+        liveLink: "https://elaborate-semifreddo-547a67.netlify.app/"
     },
     {
         id:3,
@@ -103,15 +103,15 @@ const projects = [
     {
         id:4,
         imgLink:IMG4,
-        title: "Crypto Token",
-        githubLink: "https://github.com/PratikOfficiel/CryptoToken",
-        liveLink: ""
+        title: "Tic Tac Toe",
+        githubLink: "https://github.com/PratikOfficiel/TicTacToe",
+        liveLink: "https://helpful-marshmallow-7ceaa7.netlify.app/"
     },
     {
         id:5,
         imgLink:IMG5,
-        title: "Nested Comments",
-        githubLink: "https://github.com/Pratik01-git/NComment",
+        title: "NFT marketplace",
+        githubLink: "https://github.com/PratikOfficiel/NFT-Marketplace",
         liveLink: ""
     },
     {
