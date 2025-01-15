@@ -9,7 +9,7 @@ const personalInfo = {
     name: "Pratik Soni",
     profession: 'Software Developer',
     institute: 'Indian Institute of Technology (BHU), Varanasi',
-    about: 'I am a versatile Full Stack Developer with an emphasis on backend programming. I am adept in competitive programming with a robust understanding of Data Structures and Algorithms.'
+    about: `I'm a tech enthusiast who graduated from IIT BHU in Engineering Physics and has spent 7 months working in the industry. During college, I got my hands dirty with everything from building websites to quantum computing, working with tools like Python, MERN stack, and C++. These days, I'm really into system design and building clean, efficient code – you know, the kind that makes other developers smile. I'm a quick learner who loves solving real problems, not just theoretical ones. Looking to join a team where I can put my skills to work on exciting challenges and make something that matters.`
 }
 
 // Only any 3 are enough
@@ -22,7 +22,7 @@ const achievements = {
         },
         {
             name: "Leetcode",
-            link: "https://leetcode.com/SouLPegasuS/"
+            link: "https://leetcode.com/u/Patrick_Sinova/"
         }
     ],
 
@@ -50,10 +50,10 @@ const SKILLS = {
             "Problem Solving": 'Expert'
         },
         {
-            "Object Oriented Programming": 'Intermediate'
+            "Object Oriented Programming": 'Advanced'
         },
         {
-            "System Design": 'Basic'
+            "System Design": 'Advanced'
         },
         {
             "Blockchain Development": "Intermediate"
@@ -63,8 +63,8 @@ const SKILLS = {
     frontend:[
         {"HTML": "Intermediate"},
         {"CSS": "Intermediate"},
-        {"Vanilla Js (ES6+)": "Advanced"},
-        {"React": "Advanced"},
+        {"Vanilla Js (ES6+)": "Expert"},
+        {"React": "Intermediate"},
         {"Redux": "Intermediate"},
         {"Tailwind": "Basic"}
     ],
@@ -73,7 +73,7 @@ const SKILLS = {
         {"Express": "Intermediate"},
         {"Motoko": "Intermediate"},
         {"MongoDB": "Basic"},
-        {"MYSQL": "Basic"},
+        {"MYSQL": "Intermediate"},
         {"Python": "Basic"}
     ],
 }
